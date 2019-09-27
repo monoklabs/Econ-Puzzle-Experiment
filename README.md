@@ -8,7 +8,7 @@ Econ-Puzzle-Experiment is released under the [MIT 2.0 license](https://github.co
 ## Citing the Paper
 
 ```
-@misc{Detectron2018,
+@misc{It takes two,
   author =       {Siri Isaksson},
   title =        {It Takes Two: Gender differences in in group work.},
   howpublished = {\url{https://github.com/siri/it-takes-two.pdf}},
@@ -21,7 +21,7 @@ Econ-Puzzle-Experiment is released under the [MIT 2.0 license](https://github.co
 If you use the source code in your research.
 
 ```
-@misc{Detectron2018,
+@misc{Econ-Puzzle-Experiment,
   author =       {Adam Sam and Sam Sam},
   title =        {Econ-puzzle-experiment},
   howpublished = {\url{https://github.com/monoklabs/econ-puzzle-experiment}},
