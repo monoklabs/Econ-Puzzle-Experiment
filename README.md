@@ -3,7 +3,7 @@ A system used to implement a gender bias-, credit attribution experiment at the 
 
 ## License
 
-Econ-Puzzle-Experiment is released under the [MIT 2.0 license](https://github.com/monoklabs/Econ-Puzzle-Experiment/blob/master/LICENSE).
+Econ-Puzzle-Experiment is released under the [MIT license](https://github.com/monoklabs/Econ-Puzzle-Experiment/blob/master/LICENSE).
 
 ## Citing the Paper
 
