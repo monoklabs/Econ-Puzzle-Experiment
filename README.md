@@ -29,7 +29,7 @@ Econ-Puzzle-Experiment is released under the [MIT license](https://github.com/mo
 @misc{It takes two,
   author =       {Siri Isaksson},
   title =        {It Takes Two: Gender differences in in group work.},
-  howpublished = {\url{https://github.com/siri/it-takes-two.pdf}},
+  howpublished = {\url{https://github.com/monoklabs/Econ-Puzzle-Experiment/blob/master/it-takes-two.pdf}},
   year =         {2019}
 }
 ```
