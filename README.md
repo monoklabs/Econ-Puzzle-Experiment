@@ -1,3 +1,5 @@
+This code was written with the direction of Professor Siri Isaksson for her paper [It Takes Two: Gender Differences in Group Work](https://github.com/monoklabs/Econ-Puzzle-Experiment/blob/master/it-takes-two.pdf).
+
 # Econ-Puzzle-Experiment
 A system used to implement a gender bias-, credit attribution experiment at the Harvard Decision Science Laboratory between 2017 and 2019.
 
