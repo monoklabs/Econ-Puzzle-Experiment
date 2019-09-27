@@ -1,0 +1,7 @@
+node_modules/
+build/*.js
+build/*.css
+npm-debug.log
+*.tmp
+.browserify-cache.json
+data/
