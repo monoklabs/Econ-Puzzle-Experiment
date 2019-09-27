@@ -1,0 +1,61 @@
+body {
+    background-color: #eaeaea;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+    height: 0px
+}
+::-webkit-scrollbar-button {
+    background: none;
+   
+}
+::-webkit-scrollbar-track-piece {
+    background: none;
+}
+::-webkit-scrollbar-thumb {
+    background: #428bca;
+    /*background: #eee;*/
+    border-radius: 20px;
+}
+​
+
+
+
+.scroll-visible{
+    overflow-y: scroll;
+}
+
+.leaflet-marker-icon {
+    pointer-events: all
+    /*z-index: 1000;*/
+}
+
+.leaflet-popup {
+    z-index: 100000;
+}
+
+.leaflet-tile{
+    /*z-index: -100000 !important;*/
+}
+
+.leaflet-popup-content {
+    width:170px !important;
+    padding-top: 50px;
+}
+
+.container {
+    padding: 0px;
+}
+
+.dblist{
+    position: absolute !important;
+}
+
+.avatar{
+    filter: brightness(300%);
+}
+
+.gauge{
+    float:right !important;
+}

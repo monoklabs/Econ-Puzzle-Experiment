@@ -1,0 +1,23 @@
+{	
+	"server":{
+		"dev":{
+			"apiUrl":"http://localhost:3030" //localhost
+		},
+		"prod":{
+			"apiUrl":"http://63.142.255.120:3030"
+		},
+		"host":"prod"
+	},
+	"AisC":true,
+	"fuzzy":["Yes - I would have solved it much better on my own","Yes - I would have solved it somewhat better on my own.","No - I think it would have stayed the same","No - I think I would have solved it somewhat worse on my own","No - I think I would have solved it much worse on my own"],
+	"seatAmount":12,
+	"peerMessage":"Below is a list of all the people that you will be solving the sliding puzzle with today. Each person is presented together with their name and picture. Each partner that you will be matched with will try to solve the puzzle with everyone in your room. So just like you, each person will have tried 8 puzzles in total by the end of the experiment. Please make an estimate ranging from 0% to 100% of how much you think each person’s average contribution in these 8 games will be. 0% means that you think that the person will not contribute at all in any of the 8 puzzles, whereas 100% means that you think that the person will solve all the 8 puzzles on their own. Please note that your answer is private and that you will make the most money in the experiment if you state your genuine belief about how much you think each person will contribute on average. Please provide your genuine belief about everyone’s average contribution.",
+	"enterGameMessage":"To enter this game, please press join room, if your partner enters as well, the game will start automatically.",
+	"blocked":[1,2,3],
+	"solveMessage1":"You solved the sliding puzzle [puzzle] with [partner]. Please make an estimation ranging from 0% to 100% of what you think your contribution in solving sliding puzzle [puzzle] was.",
+	"info1":"0% means that you didn’t contribute to the solution of the sliding puzzle, whereas 100% means that you solved the sliding puzzle on your own and [partner] didn’t contribute. Please note that [partner] will not see your answer, and you will make the most money in the experiment if you state your genuine belief, from 0% to 100%, about how much you contributed. Please provide your genuine belief about your own contribution.",
+	"info2":"0% means that you didn’t contribute to getting this close to the solution, whereas 100% means that getting this close to the solution was due to your contribution and [partner] didn’t contribute. Please note that [partner] will not see your answer, and you will make the most money in the experiment if you state your genuine belief, from 0% to 100%, about how much you contributed. Please provide your genuine belief about your own contribution.",
+	"solveMessage2":"NOTICE: Your answer will be displayed at [partner]’s screen. You solved the sliding puzzle with [partner]. Please make an estimation ranging from 0% to 100% of what you think your contribution in solving sliding puzzle [puzzle] was. 0% means that you did not contribute to the solution of the sliding puzzle, whereas 100% means that you solved the sliding puzzle on your own and [partner] didn’t contribute. Please note that you will make the most money in the experiment if you state your genuine belief, from 0% to 100%, about how much you contributed. Please provide your genuine belief about your own contribution. Please note that your answer will be displayed at [partner]’s screen immediately after you respond.",
+	"solveMessage3":"You and [partner] are now done with puzzle [puzzle]. While you and [partner] didn’t manage to solve the puzzle, please make an estimation ranging from 0% to 100% of what you think your contribution in getting this close to the solution was.",
+	"solveMessage4":"NOTICE: Your answer will be displayed at [partner]'s' screen. You and [partner] are now done with [puzzle]. While you and [partner] didn’t manage to solve the puzzle, please make an estimation ranging from 0% to 100% of what your contribution in getting this close to the solution was. 0% means that you did not contribute to getting this close to the solution, whereas 100% means that getting this close to the solution was due to your contribution and [partner] didn’t contribute. Please note that you will make the most money in the experiment if you state your genuine belief, from 0% to 100%, about how much you contributed. Please provide your genuine belief about your own contribution."
+}
