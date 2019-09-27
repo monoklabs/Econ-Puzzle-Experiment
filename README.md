@@ -13,7 +13,7 @@ The system uses a node.js backend to host a game-server, that can connect mutipl
 ## Registration of participant
 
 <div align="center">
-  <img src="3.png" width="700px" />
+  <img src="3.png" width="400px" />
   <p>The participant must have their photo taken and there are mutiple steps where priors gathered and demographic questions asked</p>
 </div>
 
