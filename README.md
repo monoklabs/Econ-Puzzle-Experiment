@@ -40,7 +40,7 @@ If you use the source code in your research.
 
 ```
 @misc{Econ-Puzzle-Experiment,
-  author =       {Adam Sam and Sam Sam},
+  author =       {Adam Sam, Sam Sam and Siri Isaksson},
   title =        {Econ-puzzle-experiment},
   howpublished = {\url{https://github.com/monoklabs/econ-puzzle-experiment}},
   year =         {2019}
