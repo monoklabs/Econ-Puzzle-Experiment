@@ -23,6 +23,7 @@ The system uses a node.js backend to host a game-server, that can connect mutipl
 
 Econ-Puzzle-Experiment is released under the [MIT license](https://github.com/monoklabs/Econ-Puzzle-Experiment/blob/master/LICENSE).
 
+
 ## Citing the Paper
 
 ```
@@ -36,7 +37,7 @@ Econ-Puzzle-Experiment is released under the [MIT license](https://github.com/mo
 
 ## Citing the Source Code
 
-If you use the source code in your research.
+If you use the source code in your research. Please site both (code and paper) when you this source code
 
 ```
 @misc{Econ-Puzzle-Experiment,
