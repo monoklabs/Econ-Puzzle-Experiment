@@ -29,7 +29,7 @@
     "browserify": "^13.1.1",
     "browserify-incremental": "^3.1.1",
     "catw": "^1.0.1",
-    "clean-css": "^3.4.20",
+    "clean-css": "^4.1.11",
     "compression": "^1.6.2",
     "cron": "^1.1.1",
     "envify": "^3.4.1",
