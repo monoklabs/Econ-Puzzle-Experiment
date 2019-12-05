@@ -14,8 +14,8 @@ n=$(which node);n=${n%/bin/node}; chmod -R 755 $n/bin/*; sudo cp -r $n/{bin,lib,
 
 A Room is a game between two people, a unique match, i.e LA1 (L is the board, A is the physical room number and 1 is the seat number) 
 
-If you're hosting the backend on http://<DOMAIN NAME>
-the full path will be http://<DOMAIN NAME>:3030 except for when downloading the compiled csv file
+If you're hosting the backend on http://DOMAINNAME.com
+the full path will be http://DOMAINNAME.com:3030 except for when downloading the compiled csv file
 
 | Path | Description |
 | --- | --- |
