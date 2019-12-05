@@ -37,7 +37,7 @@ Econ-Puzzle-Experiment is released under the [MIT license](https://github.com/mo
 
 ## Citing the Source Code
 
-If you use the source code in your research. Please site both (code and paper) when you this source code
+Please cite both (code and paper) when you this source code in your research
 
 ```
 @misc{Econ-Puzzle-Experiment,
