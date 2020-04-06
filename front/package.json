@@ -34,7 +34,7 @@
     "cron": "^1.1.1",
     "envify": "^3.4.1",
     "express": "^4.14.0",
-    "minimist": "^1.1.1",
+    "minimist": "^1.2.3",
     "morgan": "^1.7.0",
     "nodemon": "^1.11.0",
     "serve": "^1.4.0",
