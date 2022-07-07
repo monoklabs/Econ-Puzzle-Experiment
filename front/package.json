@@ -4,7 +4,7 @@
   "repository": "",
   "dependencies": {
     "leaflet": "^0.7.7",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "react": "^15.4.2",
     "react-addons-css-transition-group": "^15.3.2",
     "react-bootstrap": "^0.30.6",
